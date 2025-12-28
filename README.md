@@ -7,22 +7,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
 
 <br>
-
-## 🛠️ Tech Stack & Tools
-
-<br>
-
-### 🔥 **Core Technologies**
-<br>
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=js,react,wordpress,html,css,sass,bootstrap,php,sql,mysql" />
 </p>
 
-### 🎨 **Frontend Mastery**
 <br>
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
-</p>
 
 ### 🛠️ **Development Tools**
 <br>
