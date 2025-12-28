@@ -4,10 +4,6 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=80&lines=Crafting+Digital+Experiences+%F0%9F%92%AB;React+%26+JavaScript+Architect+%F0%9F%8F%97%EF%B8%8F;UI%2FUX+Design+Enthusiast+%F0%9F%8E%A8;Full-Stack+Journey+%F0%9F%9A%80;Code+%26+Creativity+Fusion+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
 
 <br>
