@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 arman zeinizadeh
+# arman zeinizadeh
 
 <br>
 
@@ -22,29 +22,6 @@
 </p>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AidaHashemi&theme=tokyonight&hide_border=true&stroke=6366f1&ring=06b6d4&fire=f59e0b&currStreakLabel=6366f1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AidaHashemi&theme=default&hide_border=true&stroke=6366f1&ring=06b6d4&fire=f59e0b&currStreakLabel=6366f1" />
-</picture>
-
-<br>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AidaHashemi&theme=tokyo-night&hide_border=true&area=true&color=6366f1&line=06b6d4&point=f59e0b">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AidaHashemi&theme=github-compact&hide_border=true&area=true&color=6366f1&line=06b6d4&point=f59e0b" />
-</picture>
-
-</div>
-
-<div align="center" >
 
 <br>
 
